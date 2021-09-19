@@ -1,7 +1,7 @@
 {
   "name": "MT-Rose-Bot-Model",
   "description": "Telegram's sassiest group manager. Modular Telegram group management bot!",
-  "logo": "https://telegra.ph/file/9e831d15da94deb56ef4c.jpg",
+  "logo": "https://telegra.ph/file/f5a0d2262af4762869935.jpg",
   "keywords": [
     "telegram",
     "best",
@@ -12,7 +12,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/MRK-YT/MT-Rose-Bot-Model",
+  "repository": "https://github.com/Abijithkutty/MT-Rose-Bot-Model",
   "env": {
     "ENV": {
       "description": "Setting this to ANYTHING will enable env variables. But, you need to understand the code to know what to set here!",
