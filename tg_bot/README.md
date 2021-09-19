@@ -1,6 +1,6 @@
 # MRK YT
 
-<img src="https://telegra.ph/file/9e831d15da94deb56ef4c.jpg" width="150" height="150"><br>
+<img src="https://telegra.ph/file/f5a0d2262af4762869935.jpg" width="150" height="150"><br>
 
 
 ```
@@ -9,7 +9,7 @@ from tg_bot.sample_config import Config
 
 class Development(Config):
     OWNER_ID = 254318997  # my telegram ID
-    OWNER_USERNAME = "MRK_YT"  # my telegram username
+    OWNER_USERNAME = "DareAbijth"  # my telegram username
     API_KEY = "your bot api key"  # my api key, as provided by the botfather
     SQLALCHEMY_DATABASE_URI = 'postgresql://username:password@localhost:5432/database'(false) # sample db credentials
     MESSAGE_DUMP = '-1234567890'-(add -100)- # some group chat that your bot is a member of
